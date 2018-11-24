@@ -15,8 +15,8 @@ Your work is to:
 ## creation of the programme
 Program is written based on the followings
 * [Hong Kong Government Cantonese Romanisation](https://en.wikipedia.org/wiki/Hong_Kong_Government_Cantonese_Romanisation)
-* [initials of Man.and Can..]
-* [Finals of Man.and Can..]
+* [initials of Man.and Can..](https://github.com/DrEdwardPCB/HUMA1030Tool/blob/master/initials%20of%20Man.%20%26%20Can..pdf)
+* [Finals of Man.and Can..](https://github.com/DrEdwardPCB/HUMA1030Tool/blob/master/finals%20of%20Man.%20and%20Can..pdf)
 * [IPA phoneme /ʃ/](http://teflpedia.com/IPA_phoneme_/%CA%83/)
 ## run the programme
 follow the step to run the program
