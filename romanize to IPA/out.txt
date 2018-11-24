@@ -1,0 +1,118 @@
+*/readme
+*please apply the following method in excel to retrieve individual initials
+*replace"kʰw/kw=" with kʰw and kw
+*replace"tsʰ/ts=" with tsʰ and ts
+*replace"tʃʰ/tʃ=" with tʃʰ and tʃ
+*replace"pʰ/p=" with pʰ and p
+*replace"tʰ/t=" with tʰ and t
+*replace"kʰ/k=" with kʰ and k
+for endings just choose the 1 you want in case there are multiple
+*replace"i/ɛi=" with i and ɛi
+*replace"ai/ɐi/ɛi=" with ai and ɐi and ɛi
+*replace"au/ɐu=" with au and ɐu
+*replace"ɛi/ui=" with ɛi and ui
+*replace"a/ɐ=" with a and ɐ
+*replace"ɐ/ɔ/ou=" with ɐ and ɔ and ou
+*replace"i/ɛ=" with i and ɛ
+*replace"ɐ/u/ɵ/y=" with ɐ and u and ɵ and y
+*/
+n=a/ɐ=m  tʃʰ/tʃ=œ=ŋ  Street
+l=i/ɛ=  tʰ/t=a/ɐ=k  Street
+m=ɐ/ɔ/ou=ŋ  kʰ/k=ɐ/ɔ/ou=k  Road
+tʰ/t=ɐ/u/ɵ/y=ŋ  tʃʰ/tʃ=au/ɐu=  Street
+f=ɐ/u/ɵ/y=ŋ  tʰ/t=a/ɐ=n  Road
+j=ɛ=n  tʃʰ/tʃ=ɐ/ɔ/ou=w  Street
+tʰ/t=ɐ/ɔ/ou=  kʰw/kw=a/ɐ=  w=a/ɐ=n  Road
+tʰ/t=ai/ɐi/ɛi=  pʰ/p=ɐ/ɔ/ou=  Road
+tʰ/t=ai/ɐi/ɛi=  kʰ/k=ɐ/ɔ/ou=k  tsʰ/ts=ɛi/ui=  Road
+s=ai/ɐi/ɛi=  j=i/ɛi=  Street
+m=a/ɐ=  ɐ/ɔ/ou=n  ʃ=a/ɐ=n  Road
+s=ai/ɐi/ɛi=  ʃ=a/ɐ=  Road
+w=a/ɐ=n  kʰ/k=i/ɛ=ŋ  Path
+tʃʰ/tʃ=ɐ/u/ɵ/y=ŋ  j=i/ɛ=ŋ  Street
+pʰ/p=ɐ/ɔ/ou=  l=a/ɐ=m  Road
+ɐ/u/ɵ/y=n  tʃʰ/tʃ=au/ɐu=  Street
+l=ai/ɐi/ɛi=  tʃʰ/tʃ=i/ɛ=  kʰ/k=ɐ/ɔ/ou=k  Road
+ʃ=a/ɐ=m  m=ɐ/ɔ/ou=ŋ  Road
+j=i/ɛi=  w=ɐ/ɔ/ou=  Street
+tʰ/t=ai/ɐi/ɛi=  h=a/ɐ=ŋ  Road
+tʰ/t=ai/ɐi/ɛi=  pʰ/p=i/ɛ=ŋ  ʃ=a/ɐ=n  Street
+tʰ/t=ai/ɐi/ɛi=  tʰ/t=a/ɐ=m  Road
+tʰ/t=i/ɛ=m  m=ɛi=  Avenue
+l=ɐ/u/ɵ/y=ŋ  w=ɐ/ɔ/ou=  Road
+w=a/ɐ=n  tʃʰ/tʃ=ai/ɐi/ɛi=  Road
+tʰ/t=i/ɛ=n  l=ɐ/ɔ/ou=k  Lane
+w=i/ɛ=ŋ  f=ɐ/u/ɵ/y=ŋ  Street
+w=ɐ/ɔ/ou=ŋ  tʃʰ/tʃ=ɐ/u/ɵ/y=k  h=a/ɐ=ŋ  Road
+ɔi=  kʰw/kw=a/ɐ=n  Road
+ʃ=au/ɐu=  kʰ/k=ɛi=  w=a/ɐ=n  Road
+tʰ/t=i/ɛ=n  tʃʰ/tʃ=iu=  Street
+tsʰ/ts=a/ɐ=t  tsʰ/ts=i=  m=ɛi/ui=  Road
+tʃʰ/tʃ=ai/ɐi/ɛi=  w=a/ɐ=n  Road
+w=i/ɛ=ŋ  kʰ/k=ɐ/u/ɵ/y=t  Street
+w=a/ɐ=  ɐ/ɔ/ou=n  Lane
+s=a/ɐ=m  kʰ/k=a/ɐ=  Lane
+pʰ/p=a/ɐ=k  tsʰ/ts=i=  Lane
+w=ɐ/ɔ/ou=ŋ  n=ai/ɐi/ɛi=  tʃʰ/tʃ=ɐ/u/ɵ/y=ŋ  Road
+pʰ/p=ɛi=  h=ɐ/ɔ/ou=  Street
+f=a/ɐ=  j=y=n  Street
+f=ɐ/u/ɵ/y=k  w=a/ɐ=  Street
+kʰ/k=a/ɐ=m  ʃ=œ=ŋ  Road
+ʃ=a/ɐ=  tʰ/t=i/ɛ=n  Road
+tsʰ/ts=i/ɛ=ŋ  j=i/ɛ=  h=œ=ŋ  s=i=  w=ɛi/ui=  Road
+kʰw/kw=ai/ɐi/ɛi=  tʃʰ/tʃ=ɐ/u/ɵ/y=ŋ  Road
+ʃ=a/ɐ=  tʰ/t=au/ɐu=  kʰ/k=ɐ/ɔ/ou=k  Road
+tsʰ/ts=y=n  w=a/ɐ=n  Road
+j=y=  m=a/ɐ=n  s=quare  
+tʰ/t=ɐ/u/ɵ/y=ŋ  tʃʰ/tʃ=ɔi=  Street
+kʰ/k=ɐ/ɔ/ou=  tʃʰ/tʃ=iu=  Road
+kʰw/kw=a/ɐ=n  tʰ/t=ai/ɐi/ɛi=  Road
+tʃʰ/tʃ=i/ɛ=ŋ  w=a=  Street
+kʰ/k=i/ɛ=n  w=a=  Street
+tʃʰ/tʃ=ɐ/u/ɵ/y=n  j=y=ŋ  Street
+j=y=t  j=y=n  Street
+h=ɛi=  w=ɐ/ɔ/ou=  Street
+kʰ/k=a/ɐ=m  pʰ/p=i/ɛ=ŋ  Street
+pʰ/p=a/ɐ=k  f=ɐ/u/ɵ/y=k  Road
+h=ɐ/ɔ/ou=ŋ  ʃ=i/ɛ=ŋ  Street
+j=iu=  h=i/ɛ=ŋ  Road
+kʰ/k=a/ɐ=m  w=a/ɐ=  Street
+tʰ/t=ai/ɐi/ɛi=  tʰ/t=a/ɐ=k  Street
+a/ɐ=  kʰ/k=ɐ/u/ɵ/y=ŋ  ŋ=a/ɐ=m  Road
+ʃ=œ=ŋ  ɐ/ɔ/ou=n  Street
+l=ɛi=  j=y=  m=ɐ/u/ɵ/y=n  Road
+tʃʰ/tʃ=a/ɐ=  kʰw/kw=ɐ/ɔ/ou=  l=i/ɛ=ŋ  Road
+s=i/ɛ=n  f=a/ɐ=t  Road
+kʰ/k=ai/ɐi/ɛi=  tʰ/t=i/ɛ=n  Road
+pʰ/p=i/ɛ=k  w=a/ɐ=n  Road
+h=i/ɛ=p  w=ɐ/ɔ/ou=  Street
+pʰ/p=ɐ/ɔ/ou=  Bui  Street
+s=au/ɐu=  m=i/ɛ=ŋ  Road
+tʃʰ/tʃ=ɐ/u/ɵ/y=n  w=a=  Road
+tʃʰ/tʃ=ɔi=  h=a/ɐ=  Road
+kʰw/kw=ɐ/ɔ/ou=ŋ  l=i/ɛi=  Road
+l=ɐ/u/ɵ/y=ŋ  tʰ/t=ɐ/ɔ/ou=  Street
+f=ɐ/u/ɵ/y=ŋ  j=i/ɛ=  Street
+l=ɐ/u/ɵ/y=k  m=i/ɛ=ŋ  Street
+l=ɐ/u/ɵ/y=n  tʃʰ/tʃ=œ=ŋ  Street
+j=i/ɛ=ŋ  j=œ=ŋ  Street
+pʰ/p=a/ɐ=ŋ  tʃʰ/tʃ=i/ɛ=ŋ  Street
+h=ɐ/u/ɵ/y=ŋ  w=a/ɐ=n  Street
+ʃ=i/ɛ=m  l=y=n  Street
+j=i/ɛ=n  ɐ/ɔ/ou=n  Street
+tsʰ/ts=ɐ/u/ɵ/y=n  f=a/ɐ=t  Street
+h=ɐ/ɔ/ou=k  l=i/ɛ=ŋ  Street
+m=ɐ/ɔ/ou=k  tʃʰ/tʃ=œ=ŋ  Street
+s=ɐ/u/ɵ/y=ŋ  w=ɐ/ɔ/ou=ŋ  tʰ/t=ɔi=  Road
+pʰ/p=au/ɐu=  tʃʰ/tʃ=ɐ/u/ɵ/y=ŋ  Street
+pʰ/p=a/ɐ=k  tʰ/t=ai/ɐi/ɛi=  Street
+tʰ/t=i/ɛ=n  kʰw/kw=ɐ/ɔ/ou=ŋ  Road
+kʰ/k=au/ɐu=  pʰ/p=ɛi/ui=  l=ɐ/u/ɵ/y=ŋ  Road
+f=a/ɐ=t  kʰw/kw=ɐ/ɔ/ou=ŋ  Street
+ʃ=ɐ/u/ɵ/y=n  j=ɐ/u/ɵ/y=ŋ  Street
+s=a/ɐ=n  m=a/ɐ=  tʰ/t=au/ɐu=  Street
+m=ɛi=  kʰ/k=i/ɛ=ŋ  Street
+h=ɐ/u/ɵ/y=ŋ  h=ɐ/ɔ/ou=m  Road
+tʰ/t=ai/ɐi/ɛi=  w=a/ɐ=n  Road
+tʰ/t=a/ɐ=k  h=ɐ/ɔ/ou=ŋ  Street
+a/ɐ=p  l=iu=  Street
