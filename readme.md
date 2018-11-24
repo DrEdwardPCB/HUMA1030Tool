@@ -22,9 +22,9 @@ Program is written based on the followings
 follow the step to run the program
 1. download the release `Roman to IPA.jar`
 2. place the file in any of your directory(desktop suggested)
-3. create a new .txt file named `in.txt`(name is important) in the same directory as the `Roman to IPA.jar`
+3. create a new .txt file name `in.txt`(name is important) in the same directory as the `Roman to IPA.jar`
 4. double click the `Roman to IPA.jar`
-5. 2 file will be created 1 named `out.txt` another named final `out.txt` containing the info you need
+5. 2 file will be created, 1 name `out.txt` another name `finalout.txt`. Those are the files containing the info that you need
 ## example input and output
 
 for the following input
@@ -57,7 +57,6 @@ j=ɛ=n  tʃʰ/tʃ=ɐ/ɔ/ou=w  Street
 (tʰɐŋ,tʰuŋ,tʰɵŋ,tʰyŋ,tɐŋ,tuŋ,tɵŋ,tyŋ,)  (tʃʰau,tʃʰɐu,tʃau,tʃɐu,)  (Street,)  
 (fɐŋ,fuŋ,fɵŋ,fyŋ,)  (tʰan,tʰɐn,tan,tɐn,)  (Road,)  
 (jɛn,)  (tʃʰɐw,tʃʰɔw,tʃʰouw,tʃɐw,tʃɔw,tʃouw,)  (Street,)  
-
 ```
 ## disclaimer
 there is no guarantee that the transcription fits the instructor requirement, don't come blame me if the transcription is not correct. This program is publish as open source, please commit the correct code to another branch in case there are any mistake
